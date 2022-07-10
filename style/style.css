@@ -1,0 +1,28 @@
+.container{
+    max-width: none;
+    margin: auto;
+}
+
+.lin{
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.468947px;
+    color: #cc00ff5b;
+    text-decoration: none;
+    
+}
+
+.about{
+    margin: 104px auto 85px;
+}
+
+.about_title{
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 77px;
+    letter-spacing: -2.50105px;
+    color: #19191B;
+    max-width: 467px;
+    margin-bottom: 30px;
+}
